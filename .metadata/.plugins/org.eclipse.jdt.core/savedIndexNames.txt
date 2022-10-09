@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Matheus Oliveira\Documents\frajolinha\dio-desafios\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+422768324.index
+303800057.index
